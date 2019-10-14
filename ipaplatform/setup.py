@@ -37,6 +37,7 @@ if __name__ == '__main__':
             "ipaplatform.base",
             "ipaplatform.debian",
             "ipaplatform.fedora",
+            "ipaplatform.gentoo",
             "ipaplatform.redhat",
             "ipaplatform.rhel"
         ],
